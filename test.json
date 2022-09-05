@@ -1,0 +1,16 @@
+[
+  {
+    "languages": "Languages",
+    "pricing.Pricing.choose_plan": "Choose Your Plan",
+    "pricing.Pricing.label_quaterly": "Quaterly",
+    "pricing.Pricing.label_yearly": "Yearly",
+    "pricing.Pricing.label_plan_standard": "STANDARD",
+    "pricing.Pricing.per_month": "Month",
+    "pricing.Pricing.per_location": "Per Location",
+    "pricing.Pricing.sub_header": "Easily {name} compare, shop and track orders from multiple suppliers at once",
+    "pricing.Pricing.current_plan": "Current Plan",
+    "pricing.Pricing.downgrade_plan": "Downgrade Plan",
+    "pricing.Pricing.select_plan": "Select Plan",
+    "pricing.Pricing.contact_support": "Contact Support"
+  }
+]
